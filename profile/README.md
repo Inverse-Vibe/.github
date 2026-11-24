@@ -73,7 +73,11 @@ Functionally complete? That is where InVi starts.
 |---|---|
 | **100%** | OWASP Benchmark, Java — first on both suites (Python 94.75%), ahead of CodeQL, Semgrep and SonarQube, with no model. [Leaderboard](https://inverse-vibe.github.io/OWASP-Benchmark-Comparator/leaderboard.html) · [code](https://github.com/Inverse-Vibe/OWASP-Benchmark-Comparator) |
 | **74.6%** | of TensorFlow's branches reached with no tests written — twice the best published tool. [Details](https://inversevibe.com/benchmarks/tensorflow) |
-| **11 of 17** | open-source fixes accepted or confirmed upstream — scikit-learn, Graphify, MemPalace and more. [The fixes](https://inversevibe.com/open-source) |
+| **7 landed** | open-source fixes shipped by their maintainers — 5 merged, 2 cherry-picked into a release: scikit-learn, Graphify, MemPalace, watermarks-remover and semantica, 322k stars together. [The fixes](https://inversevibe.com/open-source) |
+
+## The team
+
+Three cofounders who've run systems that weren't allowed to go down: [Soham Acharya](https://www.linkedin.com/in/soham-acharya) (direction and research), [Anshul Chauhan](https://www.linkedin.com/in/chauhan-anshul/) (builds and runs the platform) and [Gyan Ranjan, PhD](https://www.linkedin.com/in/gyan-ranjan-phd-bba5ab121/) (AI and security data science). [Meet the team](https://inversevibe.com/team)
 
 ## It runs inside your walls
 
