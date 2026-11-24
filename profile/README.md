@@ -64,7 +64,7 @@ The model runs inside your building, on one small box. Point InVi at a model ser
 
 ## Team
 
-We've run systems that weren't allowed to go down: [Soham Acharya](https://www.linkedin.com/in/soham-acharya), [Anshul Chauhan](https://www.linkedin.com/in/chauhan-anshul/) and [Gyan Ranjan, PhD](https://www.linkedin.com/in/gyan-ranjan-phd-bba5ab121/). [Meet the team](https://inversevibe.com/team)
+We've run systems that weren't allowed to go down: [Soham Acharya](https://www.linkedin.com/in/soham-acharya-40379285/), [Anshul Chauhan](https://www.linkedin.com/in/chauhan-anshul/) and [Gyan Ranjan, PhD](https://www.linkedin.com/in/gyan-ranjan-phd-bba5ab121/). [Meet the team](https://inversevibe.com/team)
 
 ---
 
