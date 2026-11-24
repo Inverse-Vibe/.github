@@ -71,7 +71,7 @@ We've run systems that weren't allowed to go down: [Soham Acharya](https://www.l
 <p align="center">
   <b>Start with one application.</b><br />
   <a href="https://app.inversevibe.com"><b>Get started</b></a> &nbsp;·&nbsp;
-  <a href="https://inversevibe.com/pilot">How a pilot runs</a> &nbsp;·&nbsp;
+  <a href="mailto:support@vinv.ai?subject=InVi%20%E2%80%94%20a%20demo">Book a demo</a> &nbsp;·&nbsp;
   <a href="mailto:support@vinv.ai">support@vinv.ai</a> &nbsp;·&nbsp;
   <a href="https://inversevibe.com">inversevibe.com</a>
 </p>
